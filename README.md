@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/esakat/dig-yaml/workflows/Go/badge.svg)](https://github.com/esakat/dig-yaml/actions)
+
 # Easy to get value of yaml
 
 Introduction
