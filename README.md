@@ -54,7 +54,7 @@ testfile.yml
 
 ```yaml
 foo: hoge
-1: false
+bar: false
 hoge:
   - key1: test1
     key2: 1
