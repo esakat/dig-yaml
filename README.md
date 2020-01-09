@@ -21,8 +21,8 @@ package main
 import (
     "fmt"
     "log"
-	"gopkg.in/yaml.v2"
-	"os"
+    "gopkg.in/yaml.v2"
+    "os"
     "github.com/esakat/dig-yaml"
 )
 
@@ -50,7 +50,9 @@ func main() {
 }
 ```
 
-```testfile.yml
+testfile.yml
+
+```yaml
 foo: hoge
 1: false
 hoge:
